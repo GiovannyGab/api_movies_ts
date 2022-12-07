@@ -1,0 +1,7 @@
+2022-12-07 15:16:10:1610 - [32minfo[39m: [32maplicação rodando na porta 3000 [39m
+2022-12-07 15:16:24:1624 - [32minfo[39m: [32maplicação rodando na porta 3000 [39m
+2022-12-07 15:16:30:1630 - [32minfo[39m: [32maplicação rodando na porta 3000 [39m
+2022-12-07 15:17:32:1732 - [31merror[39m: [31merro na conecção Error: querySrv ENOTFOUND _mongodb._tcp.restfulapibanco.lq7ds.mongodb.net[39m
+2022-12-07 15:17:32:1732 - [32minfo[39m: [32maplicação rodando na porta 3000 [39m
+2022-12-07 15:18:00:180 - [32minfo[39m: [32mconectado a o mongoAtlas[39m
+2022-12-07 15:18:00:180 - [32minfo[39m: [32maplicação rodando na porta 3000 [39m
