@@ -10,6 +10,7 @@ async function connect() {
 
     } catch (error) {
         Logger.error(`erro na conecção ${error}`)
+        process.exit(1)
     }
 }
 
